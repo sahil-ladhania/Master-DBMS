@@ -87,7 +87,7 @@ Database schema can be divided broadly into two categories :-
 
 6. Schema Diagrams. ------> Understand Practically
 Answer :
-To understand Schema Diagrams you have to understand : ER Model & Relation Model & ER-to-Relational-Model-Conversion
+To understand Schema Diagrams you have to understand : ER Model & Relation Model & ER-to-Relational-Model-Conversion.
     ER(Entity-Relationship) Model - Visual representation of entities, attributes, and relationships within a database.
     Relation Model - Represents the structure of data using tables, columns, and relationships.
     ER to Relational Model Conversion - Process of translating an ER diagram into a set of relational tables.

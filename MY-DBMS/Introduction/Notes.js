@@ -45,7 +45,7 @@ Example of DBMS - MySQL, PostgreSQL, Oracle etc.
 DBMS vs FFMS(Flat File Management System) - Transition from flat file management systems to DBMS was driven by the need for centralized, efficient, and reliable data management solutions that could handle the increasing volume and complexity of data in modern applications. DBMS provides a structured and organized approach to data storage and management, offering numerous advantages over flat file systems in terms of scalability, integrity, security, and ease of use.
 When not to use DBMS - Not recommended when you do not have the budget or the expertise to operate a DBMS. In such cases, Excel/CSV/Flat Files could do just fine.
 
-2. Why do we need DBMS ?
+3. Why do we need DBMS ?
 Answer :
 Need of DBMS - DBMS helps in efficiently managing large volumes of data, ensuring data integrity, providing security, and supporting concurrent access by multiple users.
 Example of Why We Need DBMS - In a file management system, each department in a company may have its own file for employee records. In a DBMS, all employee records may be stored in a single table with relationships to other tables like departments and salaries.
